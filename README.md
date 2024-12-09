@@ -1,13 +1,13 @@
 # Brave Leo
 
-"BraveAI Leo" is a Python module that provides access to Brave's Leo AI chat functionality based on Llama. With this module, you can easily integrate AI chat capabilities powered by Brave's Leo into your Python applications.
+"py-brave-leo-lib" is a Python module that provides access to Brave's Leo AI chat functionality based on Llama. With this module, you can easily integrate AI chat capabilities powered by Brave's Leo into your Python applications.
 
 ## Installation
 
-You can install "braveAI-leo" using pip:
+You can install "py-brave-leo-lib" using pip:
 
 ```bash
-pip install git+https://github.com/PythonX-001/braveAI_leo_API
+pip install git+https://github.com/maalos/py-brave-leo-lib
 ```
 
 ## Usage
